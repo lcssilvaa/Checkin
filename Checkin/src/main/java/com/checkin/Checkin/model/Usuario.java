@@ -1,4 +1,4 @@
-package com.checkin.Checkin.Model;
+package com.checkin.Checkin.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
