@@ -1,0 +1,16 @@
+# Maven
+/target
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Credenciais
+/application.properties
+.env
