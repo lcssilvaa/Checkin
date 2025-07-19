@@ -1,5 +1,6 @@
 package com.checkin.Checkin.model;
 
+import enums.TipoUsuario;
 import jakarta.persistence.*;
 import lombok.Data;
 
