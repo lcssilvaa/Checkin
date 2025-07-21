@@ -12,6 +12,9 @@ public class Usuario {
     @Id
     private String usuario;
 
+    @Column(name = "nome")
+    private String nome;
+
     @Column(nullable = false)
     private String senha;
 
